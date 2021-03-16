@@ -1,0 +1,8 @@
+com\baeldung\dddmodules\shippingcontext\model\Parcel.class
+module-info.class
+com\baeldung\dddmodules\shippingcontext\service\ParcelShippingService.class
+com\baeldung\dddmodules\shippingcontext\model\PackageItem.class
+com\baeldung\dddmodules\shippingcontext\service\ShippingService.class
+com\baeldung\dddmodules\shippingcontext\repository\ShippingOrderRepository.class
+com\baeldung\dddmodules\shippingcontext\service\ParcelShippingService$1.class
+com\baeldung\dddmodules\shippingcontext\model\ShippableOrder.class

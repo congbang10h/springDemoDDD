@@ -1,0 +1,7 @@
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\com\baeldung\dddmodules\shippingcontext\repository\ShippingOrderRepository.java
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\com\baeldung\dddmodules\shippingcontext\model\PackageItem.java
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\com\baeldung\dddmodules\shippingcontext\service\ParcelShippingService.java
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\com\baeldung\dddmodules\shippingcontext\service\ShippingService.java
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\com\baeldung\dddmodules\shippingcontext\model\ShippableOrder.java
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\com\baeldung\dddmodules\shippingcontext\model\Parcel.java
+F:\E.ONLY SOURCECODE\Spring Boot Demo\tutorials\ddd-modules\shippingcontext\src\main\java\module-info.java

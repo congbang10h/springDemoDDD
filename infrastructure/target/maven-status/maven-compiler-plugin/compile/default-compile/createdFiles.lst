@@ -1,0 +1,5 @@
+com\baeldung\dddmodules\infrastructure\events\SimpleEventBus.class
+com\baeldung\dddmodules\infrastructure\db\InMemoryOrderStore$PersistenceOrder$OrderItem.class
+com\baeldung\dddmodules\infrastructure\db\InMemoryOrderStore.class
+module-info.class
+com\baeldung\dddmodules\infrastructure\db\InMemoryOrderStore$PersistenceOrder.class

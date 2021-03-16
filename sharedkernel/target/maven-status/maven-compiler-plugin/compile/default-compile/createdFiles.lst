@@ -1,0 +1,5 @@
+com\baeldung\dddmodules\sharedkernel\events\EventSubscriber.class
+com\baeldung\dddmodules\sharedkernel\events\ApplicationEvent.class
+com\baeldung\dddmodules\sharedkernel\events\EventBus.class
+module-info.class
+com\baeldung\dddmodules\sharedkernel\service\ApplicationService.class

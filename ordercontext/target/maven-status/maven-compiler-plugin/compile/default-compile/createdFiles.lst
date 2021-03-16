@@ -1,0 +1,7 @@
+com\baeldung\dddmodules\ordercontext\service\CustomerOrderService$1.class
+module-info.class
+com\baeldung\dddmodules\ordercontext\service\OrderService.class
+com\baeldung\dddmodules\ordercontext\repository\CustomerOrderRepository.class
+com\baeldung\dddmodules\ordercontext\service\CustomerOrderService.class
+com\baeldung\dddmodules\ordercontext\model\CustomerOrder.class
+com\baeldung\dddmodules\ordercontext\model\OrderItem.class
